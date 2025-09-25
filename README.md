@@ -1,1 +1,19 @@
 # Task-a
+<!--
+Author: [Jasper Myllymäki]
+Date: 2025-09-20
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello Web</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Hello Web</h1>
+    <p>This is my first web page deployed to Azure!</p>
+    <a href="https://www.example.com" target="_blank">Visit Example</a>
+</body>
+</html>
