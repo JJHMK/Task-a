@@ -1,0 +1,18 @@
+/*
+Author: [Jasper Myllymäki]
+Date: 2025-09-20
+*/
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: darkblue;
+    font-size: 36px;
+}
+
+p {
+    color: darkgreen;
+    font-size: 18px;
+}
